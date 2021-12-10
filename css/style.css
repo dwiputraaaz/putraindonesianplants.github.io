@@ -1,0 +1,24 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container {
+  height: 240px;
+}
+.parallax img {
+  opacity: 0.5 !important;
+}
+
+.clients img {
+  max-width: 100px;
+}
+
+footer {
+  padding: 1px 0;
+}
+.slider img {
+  max-width: 1800px;
+  margin: auto;
+}
